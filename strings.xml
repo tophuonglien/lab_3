@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab_3</string>
+    <string name="Name">Entrez votre nom</string>
+    <string name="empty"></string>
+    <string name="next">Prochaine</string>
+    <string name="Welcome">Bienvenue!</string>
+    <string name="Thank">Merci</string>
+    <string name="Donot">Ne m\'appelle pas comme ça</string>
+
+</resources>
